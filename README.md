@@ -15,3 +15,6 @@ Data cleaning involves sevral processes and techniques. They are
 - Python
 - SQL
 - Excel
+
+# Project 1: UK Jobs Data Cleaning
+In this project, the dataset comprises of all Data jobs and the skills required. The data was collected from multiple websites such as Indeed, glassdoor etc. Our goal is to clean this data for Exploratory Data Analysis
